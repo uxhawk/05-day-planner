@@ -1,0 +1,22 @@
+.past {
+    background-color: rgba(0, 0, 0, .33);
+}
+
+.present {
+    background-color: #fefefe;
+}
+
+.future {
+    background-color: rgba(0, 0, 0, .03);
+    ;
+}
+
+.light-border {
+    border: rgba(0, 0, 0, .03)
+}
+
+.key {
+
+    min-height: 30px;
+    border-radius: 4px;
+}
