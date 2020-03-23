@@ -4,7 +4,7 @@
     alt="Screenshot of the day planner app">
 
 <h2>The Code</h2>
-<a href="https://uxhawk.github.io/class-activities/week-05_third-party-apis/homework/index.html">Open Day Planner
+<a href="https://uxhawk.github.io/gw-hmwk-05-day-planner/">Open Day Planner
     Demo</a>
 
 <p>This day planner uses <a href="https://momentjs.com/">moment.js</a> in two ways:</p>
